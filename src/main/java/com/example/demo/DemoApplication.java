@@ -12,7 +12,7 @@ public class DemoApplication {
 	class HelloController {
 		@GetMapping("/")
 		public String index() {
-			return "FTP - Hello Khush, KD-24 batch (FTP)";
+			return "FTP - Hello Khush Patel, KD-24 batch (FTP)";
 		}
 	}
 }
