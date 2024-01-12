@@ -12,7 +12,7 @@ public class DemoApplication {
 	class HelloController {
 		@GetMapping("/")
 		public String index() {
-			return "Hello, its Khush Patel from CLI";
+			return "Github - Hello Khush Patel";
 		}
 	}
 }
